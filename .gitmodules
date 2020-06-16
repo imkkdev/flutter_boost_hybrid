@@ -1,0 +1,6 @@
+[submodule "flutter_boost_android"]
+	path = flutter_boost_android
+	url = https://github.com/imkkdev/flutter_boost_android.git
+[submodule "flutter_boost_fmodule"]
+	path = flutter_boost_fmodule
+	url = https://github.com/imkkdev/flutter_boost_fmodule.git
